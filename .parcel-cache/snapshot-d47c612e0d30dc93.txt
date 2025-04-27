@@ -1,4 +1,4 @@
-4351
+4355
 101C:\Users\mayank\Desktop\namaste-react\node_modules\caniuse-lite\data\features\css-element-function.js133902069358577148 0
 60C:\Users\mayank\Desktop\namaste-react\node_modules\@mischnic133902069316513569 1
 80C:\Users\mayank\Desktop\namaste-react\node_modules\cosmiconfig\dist\index.js.map133902069349576039 0
@@ -17,8 +17,8 @@
 93C:\Users\mayank\Desktop\namaste-react\node_modules\node-gyp-build-optional-packages\README.md133902069341494446 0
 88C:\Users\mayank\Desktop\namaste-react\node_modules\caniuse-lite\data\features\css-all.js133902069356325943 0
 130C:\Users\mayank\Desktop\namaste-react\node_modules\posthtml\node_modules\dom-serializer\node_modules\entities\lib\maps\legacy.json133902069342800365 0
-48C:\Users\mayank\Desktop\namaste-react\.gitignore133901245060469957 0
-50C:\Users\mayank\Desktop\namaste-react\package.json133902081541829642 0
+48C:\Users\mayank\Desktop\namaste-react\.gitignore133902114740836225 0
+50C:\Users\mayank\Desktop\namaste-react\package.json133902162312752007 0
 106C:\Users\mayank\Desktop\namaste-react\node_modules\@swc\helpers\_\_initializer_warning_helper\package.json133902069369012934 0
 92C:\Users\mayank\Desktop\namaste-react\node_modules\@swc\helpers\esm\_wrap_async_generator.js133902069363508720 0
 74C:\Users\mayank\Desktop\namaste-react\node_modules\semver\classes\range.js133902069350114043 0
@@ -27,7 +27,7 @@
 55C:\Users\mayank\Desktop\namaste-react\package-lock.json133902081542848580 0
 68C:\Users\mayank\Desktop\namaste-react\node_modules\@msgpackr-extract133902081541761564 1
 81C:\Users\mayank\Desktop\namaste-react\node_modules\@parcel\core\lib\serializer.js133902069357285920 0
-42C:\Users\mayank\Desktop\namaste-react\dist133902092785575306 1
+42C:\Users\mayank\Desktop\namaste-react\dist133902161430187151 1
 85C:\Users\mayank\Desktop\namaste-react\node_modules\@parcel\graph\src\AdjacencyList.js133902069341391304 0
 75C:\Users\mayank\Desktop\namaste-react\node_modules\weak-lru-cache\README.md133902069342326399 0
 82C:\Users\mayank\Desktop\namaste-react\node_modules\caniuse-lite\data\regions\SZ.js133902069380297031 0
@@ -571,6 +571,7 @@
 84C:\Users\mayank\Desktop\namaste-react\node_modules\update-browserslist-db\index.d.ts133902069342044778 0
 86C:\Users\mayank\Desktop\namaste-react\node_modules\update-browserslist-db\package.json133902069341098100 0
 83C:\Users\mayank\Desktop\namaste-react\node_modules\update-browserslist-db\README.md133902069341565667 0
+72C:\Users\mayank\Desktop\namaste-react\dist\namaste-react.6cf6b72b.js.map133902106920319861 0
 76C:\Users\mayank\Desktop\namaste-react\node_modules\domutils\lib\feeds.js.map133902069347749381 0
 86C:\Users\mayank\Desktop\namaste-react\node_modules\type-fest\source\promise-value.d.ts133902069348941918 0
 104C:\Users\mayank\Desktop\namaste-react\node_modules\react-dom\cjs\react-dom-server.browser.development.js133902081540785452 0
@@ -1602,7 +1603,7 @@
 95C:\Users\mayank\Desktop\namaste-react\node_modules\entities\lib\generated\decode-data-html.d.ts133902069352630933 0
 108C:\Users\mayank\Desktop\namaste-react\node_modules\node-releases\data\release-schedule\release-schedule.json133902069340831285 0
 118C:\Users\mayank\Desktop\namaste-react\node_modules\@swc\helpers\_\_class_static_private_field_destructure\package.json133902069366657501 0
-68C:\Users\mayank\Desktop\namaste-react\dist\namaste-react.3c14d121.js133902092785098896 0
+68C:\Users\mayank\Desktop\namaste-react\dist\namaste-react.3c14d121.js133902161429430829 0
 90C:\Users\mayank\Desktop\namaste-react\node_modules\node-gyp-build-optional-packages\bin.js133902069337326397 0
 73C:\Users\mayank\Desktop\namaste-react\node_modules\msgpackr\node-index.js133902069345949431 0
 92C:\Users\mayank\Desktop\namaste-react\node_modules\node-gyp-build-optional-packages\index.js133902069339158325 0
@@ -2389,6 +2390,7 @@
 98C:\Users\mayank\Desktop\namaste-react\node_modules\@swc\helpers\_\_async_to_generator\package.json133902069364783375 0
 97C:\Users\mayank\Desktop\namaste-react\node_modules\caniuse-lite\data\features\cookie-store-api.js133902069356183489 0
 72C:\Users\mayank\Desktop\namaste-react\node_modules\@parcel\packager-wasm133902069341642661 1
+68C:\Users\mayank\Desktop\namaste-react\dist\namaste-react.6cf6b72b.js133902106920106820 0
 72C:\Users\mayank\Desktop\namaste-react\node_modules\domutils\lib\feeds.js133902069339218212 0
 75C:\Users\mayank\Desktop\namaste-react\node_modules\domutils\lib\legacy.d.ts133902069352630933 0
 71C:\Users\mayank\Desktop\namaste-react\node_modules\@swc\helpers\scripts133902069363935255 1
@@ -2608,6 +2610,7 @@
 88C:\Users\mayank\Desktop\namaste-react\node_modules\caniuse-lite\data\features\ch-unit.js133902069355065303 0
 85C:\Users\mayank\Desktop\namaste-react\node_modules\caniuse-lite\dist\lib\supported.js133902069379507214 0
 82C:\Users\mayank\Desktop\namaste-react\node_modules\@parcel\core\test\test-utils.js133902069360277126 0
+69C:\Users\mayank\Desktop\namaste-react\dist\namaste-react.dadc4e37.css133902106920100394 0
 82C:\Users\mayank\Desktop\namaste-react\node_modules\caniuse-lite\data\regions\MG.js133902069375901954 0
 85C:\Users\mayank\Desktop\namaste-react\node_modules\@parcel\workers\src\core-worker.js133902069344981493 0
 82C:\Users\mayank\Desktop\namaste-react\node_modules\caniuse-lite\data\regions\NU.js133902069376766688 0
@@ -3283,7 +3286,7 @@
 91C:\Users\mayank\Desktop\namaste-react\node_modules\@swc\helpers\_\_async_generator_delegate133902069364579091 1
 81C:\Users\mayank\Desktop\namaste-react\node_modules\@swc\helpers\_\_async_iterator133902069364652095 1
 89C:\Users\mayank\Desktop\namaste-react\node_modules\@parcel\transformer-react-refresh-wrap133902069342577777 1
-69C:\Users\mayank\Desktop\namaste-react\dist\namaste-react.3a01df49.css133902092785058022 0
+69C:\Users\mayank\Desktop\namaste-react\dist\namaste-react.3a01df49.css133902161427779954 0
 85C:\Users\mayank\Desktop\namaste-react\node_modules\@swc\helpers\_\_async_to_generator133902069364783375 1
 96C:\Users\mayank\Desktop\namaste-react\node_modules\@parcel\optimizer-image\lib\ImageOptimizer.js133902069337765976 0
 78C:\Users\mayank\Desktop\namaste-react\node_modules\@swc\helpers\_\_await_value133902069364992103 1
@@ -4344,9 +4347,10 @@
 66C:\Users\mayank\Desktop\namaste-react\node_modules\.bin\semver.ps1133902069390042335 0
 78C:\Users\mayank\Desktop\namaste-react\node_modules\.bin\update-browserslist-db133902069390042335 0
 82C:\Users\mayank\Desktop\namaste-react\node_modules\.bin\update-browserslist-db.ps1133902069390042335 0
-53C:\Users\mayank\Desktop\namaste-react\dist\index.html133902092785575306 0
+53C:\Users\mayank\Desktop\namaste-react\dist\index.html133902161430170364 0
 68C:\Users\mayank\Desktop\namaste-react\dist\namaste-react.3464ddca.js133902085592300541 0
 72C:\Users\mayank\Desktop\namaste-react\dist\namaste-react.3464ddca.js.map133902085592393447 0
-73C:\Users\mayank\Desktop\namaste-react\dist\namaste-react.3a01df49.css.map133902092785361981 0
-72C:\Users\mayank\Desktop\namaste-react\dist\namaste-react.3c14d121.js.map133902092785361981 0
+73C:\Users\mayank\Desktop\namaste-react\dist\namaste-react.3a01df49.css.map133902161428225551 0
+72C:\Users\mayank\Desktop\namaste-react\dist\namaste-react.3c14d121.js.map133902161429521592 0
 72C:\Users\mayank\Desktop\namaste-react\dist\namaste-react.672d4772.js.map133902073932511865 0
+73C:\Users\mayank\Desktop\namaste-react\dist\namaste-react.dadc4e37.css.map133902106920304687 0
